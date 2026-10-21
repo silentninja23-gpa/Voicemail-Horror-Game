@@ -1,1 +1,3 @@
-# Voicemail-Horror-Game
+Step into the shadows with New Voicemail, a chilling, audio-driven horror investigation game where an entire spine-chilling story unfolds entirely through a vintage cassette answering machine and your own deductions.
+
+You sit alone at a dimly lit desk cluttered with faded polaroids and cryptic case notes. Before you lies an unlocked voicemail inbox containing distressed messages left behind in the dead of night. There is no linear path: you must play back the recordings in whatever order you dare, listening closely for ambient clues, whispered secrets, hidden passcodes, and terrifying chronological anomalies.
